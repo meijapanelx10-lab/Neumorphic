@@ -7,8 +7,8 @@
       "lib_name": "libNeumorphic.so",
       "download_url": "https://cscpro.x10.mx/ProtectMe/libNeumorphic.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-     {
-     },
+    },
+    {
       "name": "Neumorphic Liquid",
       "status": "ONLINE",
       "lib_name": "libMeija.so",
