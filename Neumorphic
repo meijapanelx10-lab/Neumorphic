@@ -9,7 +9,7 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "Neumorphic Black",
+      "name": "Neumorphic Main",
       "status": "ONLINE",
       "lib_name": "libMeija1.so",
       "download_url": "https://cscpro.x10.mx/ProtectMe/libMeija1.so",
