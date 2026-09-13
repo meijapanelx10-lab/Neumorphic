@@ -3,7 +3,7 @@
   "systems": [
     {
       "name": "Meija",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "lib_name": "libMeija.so",
       "download_url": "https://cscpro.x10.mx/ProtectMe/libMeija.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
@@ -13,6 +13,27 @@
       "status": "ONLINE",
       "lib_name": "libMeija1.so",
       "download_url": "https://cscpro.x10.mx/ProtectMe/libMeija1.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "Meija 2",
+      "status": "MAINTENANCE",
+      "lib_name": "libMeija2.so",
+      "download_url": "https://cscpro.x10.mx/ProtectMe/libMeija2.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "Meija 3",
+      "status": "MAINTENANCE",
+      "lib_name": "libMeija3.so",
+      "download_url": "https://cscpro.x10.mx/ProtectMe/libMeija3.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "Meija 4",
+      "status": "ONLINE",
+      "lib_name": "libMeija4.so",
+      "download_url": "https://cscpro.x10.mx/ProtectMe/libMeija4.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
