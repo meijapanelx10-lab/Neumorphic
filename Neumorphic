@@ -10,7 +10,7 @@
     },
     {
       "name": "Meija 1",
-      "status": "MAINTENANCE",
+      "status": "ONLINE",
       "lib_name": "libMeija1.so",
       "download_url": "https://cscpro.x10.mx/ProtectMe/libMeija1.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
