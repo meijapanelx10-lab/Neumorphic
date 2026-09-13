@@ -2,14 +2,14 @@
   "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "Neumorphic",
+      "name": "Meija",
       "status": "ONLINE",
       "lib_name": "libMeija.so",
       "download_url": "https://cscpro.x10.mx/ProtectMe/libMeija.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "Neumorphic Main",
+      "name": "Meija 1",
       "status": "MAINTENANCE",
       "lib_name": "libMeija1.so",
       "download_url": "https://cscpro.x10.mx/ProtectMe/libMeija1.so",
