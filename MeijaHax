@@ -9,7 +9,7 @@
         {
           "name": "Meija Variant 4",
           "lib_name": "libMeija4.so",
-          "download_url": "https://github.com/meijapanelx10-lab/Neumorphic/blob/main/libMeija4.so"
+          "download_url": "https://raw.githubusercontent.com/meijapanelx10-lab/Neumorphic/refs/heads/main/libMeija4.so"
         }
       ]
     }
