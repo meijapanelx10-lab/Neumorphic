@@ -10,7 +10,7 @@
     },
     {
       "name": "Meija 1",
-      "status": "ONLINE",
+      "status": "OFFLINE",
       "lib_name": "libMeija1.so",
       "download_url": "https://cscpro.x10.mx/ProtectMe/libMeija1.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
@@ -24,14 +24,14 @@
     },
     {
       "name": "Meija 3",
-      "status": "MAINTENANCE",
+      "status": "ONLINE",
       "lib_name": "libMeija3.so",
       "download_url": "https://cscpro.x10.mx/ProtectMe/libMeija3.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
       "name": "Meija 4",
-      "status": "ONLINE",
+      "status": "OFFLINE",
       "lib_name": "libMeija4.so",
       "download_url": "https://cscpro.x10.mx/ProtectMe/libMeija4.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
