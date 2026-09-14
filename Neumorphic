@@ -31,7 +31,7 @@
     },
     {
       "name": "Meija 4",
-      "status": "OFFLINE",
+      "status": "ONLINE",
       "lib_name": "libMeija4.so",
       "download_url": "https://cscpro.x10.mx/ProtectMe/libMeija4.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
