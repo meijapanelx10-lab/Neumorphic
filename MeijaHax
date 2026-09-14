@@ -4,7 +4,7 @@
       "name": "CALL OF DUTY GARENA",
       "status": "ONLINE",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
-      "logo": "https://github.com/meijapanelx10-lab/Neumorphic/blob/main/ic_launcher_foreground.png",
+      "logo": "https://raw.githubusercontent.com/meijapanelx10-lab/Neumorphic/refs/heads/main/logo.png",
       "libs": [
         {
           "name": "Meija Variant 4",
