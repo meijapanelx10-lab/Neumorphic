@@ -1,0 +1,18 @@
+{
+  "systems": [
+    {      
+      "name": "CALL OF DUTY GARENA",
+      "status": "ONLINE",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "logo": "https://raw.githubusercontent.com/IMMORTALKING143/Niuniu/refs/heads/main/Call%20Of%20Duty%20Mobile%20Wallpaper%20(1).jpg",
+      "libs": [
+        {
+          "name": "Meija Variant 4",
+          "lib_name": "libMeija4.so",
+          "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib1.so"
+        }
+      ]
+    }
+  ],
+  "music": ""
+}
